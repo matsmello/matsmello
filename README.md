@@ -1,6 +1,6 @@
 # 👨🏻‍🎨 Matheus Mello
 
-Software Engineer [@Arive](https://www.getarive.com/)
+Software Engineer [@GetArive](https://www.getarive.com/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@msmello_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/msmello_)](https://twitter.com/msmello_)
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Mello-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-da-silveira-mello/)](https://www.linkedin.com/in/matheus-da-silveira-mello/)
